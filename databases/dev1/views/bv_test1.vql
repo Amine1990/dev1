@@ -1,5 +1,0 @@
-﻿CREATE OR REPLACE VIEW bv_test1 AS SELECT 1 AS field1 FROM dual();
-
-ALTER VIEW bv_test1
- LAYOUT (dual = [0, 0, 200, 200]);
-
