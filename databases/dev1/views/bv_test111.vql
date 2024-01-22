@@ -1,2 +1,0 @@
-﻿CREATE OR REPLACE VIEW bv_test111 AS SELECT 2 FROM dual();
-
